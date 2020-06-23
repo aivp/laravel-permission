@@ -1,5 +1,5 @@
 {
-    "name": "IPF/laravel-permission",
+    "name": "IPFSL/laravel-permission",
     "description": "Permission handling for Laravel 5.4 to 5.8",
     "type": "project",
     "license": "MIT",
