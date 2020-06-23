@@ -1,5 +1,5 @@
 {
-    "name": "ad/laravel-permission",
+    "name": "aidong/laravel-permission",
     "description": "Permission handling for Laravel 5.4 to 5.8",
     "type": "project",
     "license": "MIT",
